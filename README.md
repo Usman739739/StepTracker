@@ -1,4 +1,4 @@
-# StepTracker — Android Step Tracking App
+# StepTracker — Android Step Tracking  App
 
 A production-ready Android app built with Kotlin and Jetpack Compose that tracks physical activity, counts steps, automatically pauses during biking/driving, and allows scheduling tracking times. Features an elegant home-screen widget built with Jetpack Glance.
 
